@@ -223,4 +223,4 @@ MIT License - Ver [LICENSE](LICENSE) para detalles.
 
 **Proyecto Fourier DSP** - Noviembre 2026  
 *Disciplina: Procesamiento Digital de Señales (DSP)*  
-*Conceptos: Series de Fourier, DFT, FFT Cooley-Tukey, Filtros Notch*
+*Conceptos: Series de Fourier, DFT, FFT Cooley-Tukey, Filtros Notch*"# restauracion-audio-fft" 
